@@ -2,6 +2,10 @@
 
 An AI-powered digital wellbeing dashboard built using Streamlit and Gemini API.
 
+## 🚀 Live Demo
+
+🔗 **Deployed App:** [https://your-app-name.streamlit.app](https://life-os-dashboard-petwjdmpqqjfnyjzjbznpj.streamlit.app/)
+
 ## Features
 
 - 📊 14-Day Screen Time Analytics
